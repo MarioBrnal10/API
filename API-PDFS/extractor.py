@@ -43,27 +43,27 @@ COLUMN_AREA_CONFIG = {
     },
     "MODELO": {
         "x_min_offset": 420,
-        "x_max_offset": 470,
+        "x_max_offset": 450,
         "tolerance": 10
     },
     "SERIE": {
         "x_min_offset": 480,
-        "x_max_offset": 520,
+        "x_max_offset": 550,
         "tolerance": 10
     },
     "COSTO": {
-        "x_min_offset": 530,
-        "x_max_offset": 560,
+        "x_min_offset": 570,
+        "x_max_offset": 660,
         "tolerance": 10
     },
     "TIPO ADQ.": {
-        "x_min_offset": 580,     
-        "x_max_offset": 660,  
+        "x_min_offset": 630,     
+        "x_max_offset": 680,  
         "tolerance": 15          
     },
     "DESC. TIPO ADQ.": {
         "x_min_offset": 680,     
-        "x_max_offset": 700,     
+        "x_max_offset": 760,     
         "tolerance": 25          
     },
     "NO. INVENTARIO": {
